@@ -34,7 +34,7 @@ class Solution(object):
 ##############################   Solution II: set   ##########################
 # put each row in the keyboard into a set, if all characters in a word comes #
 # from the same row, then the word should be a subset of a set of a row      #
-# Time taken: 52ms/26.52%
+# Time taken: 52ms/26.52%                                                    #
 ##############################################################################
 class Solution(object):
     def findWords(self, words):
