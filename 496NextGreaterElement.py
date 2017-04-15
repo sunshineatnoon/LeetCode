@@ -20,7 +20,7 @@ class Solution(object):
             ans.append(greater)
         return ans
 '''
-################################ Naive Solution ####################################
+################################  Solution II  #####################################
 # maintain a stack which contains a decreasing squence. Then we see a number A     #
 # larger than the last value of this squence, we pop elements less than this       #
 # A, and these values' greater number is A. For instance, if the squence is        #
