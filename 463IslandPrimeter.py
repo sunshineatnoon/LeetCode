@@ -2,7 +2,7 @@
 # go through each element in grid, check if this element has a 1 in left, right, #
 # up, down neighbor, if not, then the corresponding direction should be count    #
 # into perimeter.                                                                #
-#                            Time Taken: 306ms/65.11% ( O(mn))                           #
+#                            Time Taken: 306ms/65.11% ( O(mn))                   #
 ##################################################################################
 class Solution(object):
     def islandPerimeter(self, grid):
