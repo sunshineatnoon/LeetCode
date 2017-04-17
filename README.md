@@ -1,5 +1,7 @@
 # LeetCode Solutions
 
+292.Nim GAN [[Description]](https://leetcode.com/problems/nim-game/#/description)  [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/292NimGame.py)
+
 344.Reverse String [[Description]](https://leetcode.com/problems/reverse-string/#/description)  [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/344ReverseString.py)
 
 412.Fizz Buzz [[Description]](https://leetcode.com/problems/fizz-buzz/#/description)  [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/412FuzzBuzz.py)
