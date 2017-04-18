@@ -1,5 +1,7 @@
 # LeetCode Solutions
 
+136.SingleNumber  [[Description]](https://leetcode.com/problems/single-number/#/description)  [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/136SingleNumber.py)
+
 292.Nim GAN [[Description]](https://leetcode.com/problems/nim-game/#/description)  [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/292NimGame.py)
 
 344.Reverse String [[Description]](https://leetcode.com/problems/reverse-string/#/description)  [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/344ReverseString.py)
