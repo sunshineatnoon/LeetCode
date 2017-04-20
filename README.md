@@ -8,6 +8,8 @@
 
 344.Reverse String [[Description]](https://leetcode.com/problems/reverse-string/#/description)  [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/344ReverseString.py)
 
+389.Find the Difference [[Description]](https://leetcode.com/problems/find-the-difference/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/389FindtheDifference.py)
+
 412.Fizz Buzz [[Description]](https://leetcode.com/problems/fizz-buzz/#/description)  [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/412FuzzBuzz.py)
 
 448.Find All Numbers Disappeared in an Array  [[Description]](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/#/description)  [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/448FindAllNumbersDisappearedinanArray.py)
