@@ -2,11 +2,13 @@
 
 104.Maximum Depth of Binary Tree  [[Description]](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description)  [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/104MaximumDepthofBinaryTree.py)
 
-136.SingleNumber  [[Description]](https://leetcode.com/problems/single-number/#/description)  [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/136SingleNumber.py)
+136.SingleNumber  [[Description]](https://leetcode.com/problems/single-number/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/136SingleNumber.py)
 
-292.Nim GAN [[Description]](https://leetcode.com/problems/nim-game/#/description)  [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/292NimGame.py)
+292.Nim GAN [[Description]](https://leetcode.com/problems/nim-game/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/292NimGame.py)
 
-344.Reverse String [[Description]](https://leetcode.com/problems/reverse-string/#/description)  [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/344ReverseString.py)
+344.Reverse String [[Description]](https://leetcode.com/problems/reverse-string/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/344ReverseString.py)
+
+371.Sum of Two Integers [[Description]](https://leetcode.com/problems/sum-of-two-integers/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/371SumofTwoIntegers.py)
 
 389.Find the Difference [[Description]](https://leetcode.com/problems/find-the-difference/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/389FindtheDifference.py)
 
