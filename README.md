@@ -31,3 +31,5 @@
 500.Keyboard Row [[Description]](https://leetcode.com/problems/keyboard-row/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/500KeyboardRow.py)
 
 520.Detect Capital [[Description]](https://leetcode.com/problems/detect-capital/#/description)  [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/520DetectCapital.py)
+
+521.Longest Uncommon Subsequence I [[Description]](https://leetcode.com/problems/longest-uncommon-subsequence-i/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/521.LongestUncommonSubsequenceI.py)
