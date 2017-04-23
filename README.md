@@ -4,7 +4,13 @@
 
 136.SingleNumber  [[Description]](https://leetcode.com/problems/single-number/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/136SingleNumber.py)
 
+<<<<<<< HEAD
+226.Invert Binary Tree [[Description]](https://leetcode.com/problems/invert-binary-tree/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/226InvertBinaryTree.py)
+
+292.Nim GAN [[Description]](https://leetcode.com/problems/nim-game/#/description)  [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/292NimGame.py)
+=======
 292.Nim GAN [[Description]](https://leetcode.com/problems/nim-game/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/292NimGame.py)
+>>>>>>> 9e29c4734d88e1febdefea25e3d7fc7895dea0c2
 
 344.Reverse String [[Description]](https://leetcode.com/problems/reverse-string/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/344ReverseString.py)
 
