@@ -8,6 +8,8 @@
 
 258.Add Digits [[Description]](https://leetcode.com/problems/add-digits/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/258AddDigits.py)
 
+283.Move Zeroes [[Description]](https://leetcode.com/problems/move-zeroes/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/283MoveZeroes.py)
+
 292.Nim GAN [[Description]](https://leetcode.com/problems/nim-game/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/292NimGame.py)
 
 344.Reverse String [[Description]](https://leetcode.com/problems/reverse-string/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/344ReverseString.py)
