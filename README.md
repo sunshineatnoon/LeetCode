@@ -26,6 +26,8 @@
 
 485.Max Consecutive Ones  [[Description]](https://leetcode.com/problems/max-consecutive-ones/#/description)  [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/485MaxConsecutiveOnes.py)
 
+492.Construct the Rectangle [[Description]](https://leetcode.com/problems/construct-the-rectangle/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/492CostructtheRectangle.py)
+
 496.Next Greater Number I  [[Description]](https://leetcode.com/problems/next-greater-element-i/#/description)  [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/496NextGreaterElement.py)
 
 500.Keyboard Row [[Description]](https://leetcode.com/problems/keyboard-row/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/500KeyboardRow.py)
