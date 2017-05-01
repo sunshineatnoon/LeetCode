@@ -48,6 +48,4 @@
 
 521.Longest Uncommon Subsequence I [[Description]](https://leetcode.com/problems/longest-uncommon-subsequence-i/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/521.LongestUncommonSubsequenceI.py)
 
-530.Minimum Absolute Difference in BST [[Description]](https://leetcode.com/problems/minimum-absolute-difference-in-bst/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/530MinimumAbsoluteDifferenceinBST.py)
-
 563.Binary Tree Tilt [[Description]](https://leetcode.com/problems/binary-tree-tilt/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/563.BinaryTreeTilt.py)
