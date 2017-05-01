@@ -1,6 +1,10 @@
 # LeetCode Solutions
 
+46.Permutation [[Description]](https://leetcode.com/problems/permutations/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/46Permutations.py)
+
 104.Maximum Depth of Binary Tree  [[Description]](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description)  [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/104MaximumDepthofBinaryTree.py)
+
+114.Flatten Binary Tree to Linked List [[Description]](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/114.py)
 
 136.SingleNumber  [[Description]](https://leetcode.com/problems/single-number/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/136SingleNumber.py)
 
