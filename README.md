@@ -28,6 +28,8 @@
 
 412.Fizz Buzz [[Description]](https://leetcode.com/problems/fizz-buzz/#/description)  [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/412FuzzBuzz.py)
 
+434.Number of Segments in a String [[Description]](https://leetcode.com/problems/number-of-segments-in-a-string/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/434NumberofSegmentsinaString.py)
+
 448.Find All Numbers Disappeared in an Array  [[Description]](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/#/description)  [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/448FindAllNumbersDisappearedinanArray.py)
 
 451.Sort Characters By Frequency [[Description]](https://leetcode.com/problems/sort-characters-by-frequency/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/451SortCharactersbyFrequency.py)
