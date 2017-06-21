@@ -53,6 +53,6 @@ nimum Index Sum of Two Lists
 
 563.Binary Tree Tilt [[Description]](https://leetcode.com/problems/binary-tree-tilt/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/563.BinaryTreeTilt.py)
 
-599.Minimum Index Sum of Two Lists [[Description]](https://leetcode.com/problems/minimum-index-sum-of-two-lists/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/599.MinimumIndexSumofTwoLists.py)
+599.Minimum Index Sum of Two Lists [[Description]](https://leetcode.com/problems/minimum-index-sum-of-two-lists/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/codes/599.MinimumIndexSumofTwoLists.py)
 
 606.Construct String from Binary Tree [[Description]](https://leetcode.com/problems/construct-string-from-binary-tree/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/606ConstructStringfromBinaryTree.py)
