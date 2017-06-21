@@ -46,10 +46,13 @@
 
 500.Keyboard Row [[Description]](https://leetcode.com/problems/keyboard-row/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/500KeyboardRow.py)
 
+nimum Index Sum of Two Lists
 520.Detect Capital [[Description]](https://leetcode.com/problems/detect-capital/#/description)  [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/520DetectCapital.py)
 
 521.Longest Uncommon Subsequence I [[Description]](https://leetcode.com/problems/longest-uncommon-subsequence-i/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/521.LongestUncommonSubsequenceI.py)
 
 563.Binary Tree Tilt [[Description]](https://leetcode.com/problems/binary-tree-tilt/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/563.BinaryTreeTilt.py)
+
+599.Minimum Index Sum of Two Lists [[Description]](https://leetcode.com/problems/minimum-index-sum-of-two-lists/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/599.MinimumIndexSumofTwoLists.py)
 
 606.Construct String from Binary Tree [[Description]](https://leetcode.com/problems/construct-string-from-binary-tree/#/description) [[Solution]](https://github.com/sunshineatnoon/LeetCode/blob/master/606ConstructStringfromBinaryTree.py)
