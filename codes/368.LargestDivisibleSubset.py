@@ -1,9 +1,9 @@
-#################################################################################################
-# Solution: DP. For each element in nums nums[i], matain a longest list lists[i] that satisfies #
-the requirements and ends with nums[i]. Initial setup are lists with sublists each only contains#
-# nums[i]. Then loop over nums, and see if nums[j] can be append to any matained lists prior to #
-# lists[j]. If it can be appended and gets a longer list after appending then update lists[j].  #
-#################################################################################################
+####################################################################################################
+# Solution: DP. For each element in nums nums[i], matain a longest list lists[i] that satisfies    #
+# the requirements and ends with nums[i]. Initial setup are lists with sublists each only contains #
+# nums[i]. Then loop over nums, and see if nums[j] can be append to any matained lists prior to    #
+# lists[j]. If it can be appended and gets a longer list after appending then update lists[j].     #
+####################################################################################################
 class Solution(object):
     def largestDivisibleSubset(self, nums):
         """
