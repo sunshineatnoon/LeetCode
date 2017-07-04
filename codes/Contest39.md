@@ -1,7 +1,7 @@
 ## Contest 39
 
 ### Sum of Square Numbers
-Given a non-negative integer c, your task is to decide whether there're two integers a and b such that a2 + b2 = c.
+Given a non-negative integer c, your task is to decide whether there're two integers a and b such that a^2 + b^2 = c.
 
 Example 1:
 ```
