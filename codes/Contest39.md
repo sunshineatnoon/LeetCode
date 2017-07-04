@@ -15,7 +15,7 @@ Input: 3
 Output: False
 ```
 **Solution**
-```
+```Python
 class Solution(object):
     def judgeSquareSum(self, c):
         """
@@ -55,7 +55,7 @@ Year ranges from [2000,2017]. Hour ranges from [00,23].
 Output for Retrieve has no order required.
 
 **Solution**
-```
+```Python
 import datetime
 import calendar
 class LogSystem(object):
@@ -118,7 +118,7 @@ Explanation: The original array is [1,2,3]. The two derangements are [2,3,1] and
 **Note:**
 n is in the range of [1, 10e6].
 **Solution**
-```
+```Python
 class Solution(object):
     def findDerangement(self, n):
         """
@@ -155,7 +155,7 @@ Note:
 4. For Java users, please note that the input type has been changed to List<List<Integer>>. And after you reset the code template, you'll see this point.
 
 **Solution**
-```
+```Python
 import heapq
 class Solution(object):
     def smallestRange(self, nums):
